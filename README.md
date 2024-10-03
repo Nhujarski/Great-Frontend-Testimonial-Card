@@ -6,6 +6,10 @@ Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https:
 
 Follow my journey here ---> https://www.greatfrontend.com/projects/u/Nhujarski
 
+## About the project
+
+In this challenge, I developed a card featuring a user testimonial, including a profile image, name, username, and the testimonial body.
+
 ## Project Image
 
 <img src="Screenshot 2024-10-03 at 11.44.38 AM.png" />
