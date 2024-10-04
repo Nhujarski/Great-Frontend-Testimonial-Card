@@ -1,19 +1,15 @@
-/* Put any custom CSS styles here.  */
-/* Be sure to delete the <style> tag in index.html if you want to use this stylesheet. */
 body {
   margin: 0;
-  background-image: linear-gradient(to bottom right, #f9fafb , #d4d8dd) ;
+  background-image: linear-gradient(to bottom right, #f9fafb , #d4d8dd);
   font-family: "Noto Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
     sans-serif;
   min-height: 100vh;
-
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   display: flex;
   justify-content: center;
- 
 }
 
 * {
@@ -51,8 +47,8 @@ body {
 }
 
 .card-image {
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   margin-right: 10px;
 }
 
@@ -65,14 +61,15 @@ body {
 }
 
 .card-title {
-  font-weight: bold;
+  font-weight: 600;
   font-size: 1.25rem;
+  margin-top: -8px;
 }
 
 .card-subtitle{
   font-size: .875rem;
   color: #525252;
-  margin-top: 2px;
+
 }
 
 .card-body{
@@ -81,4 +78,5 @@ body {
 
 .card-body p {
   font-size: 1rem;
+  color: #525252;
 }
